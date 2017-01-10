@@ -1,0 +1,31 @@
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.exe
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.pdb
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Properties.Resources.resources
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.exe
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.pdb
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmMain.resources
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.Controls.DomainControl.resources
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmNewProject.resources
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmAbout.resources
+c:\users\boog\documents\visual studio 2010\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmRegister.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.exe
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.pdb
+E:\BackupNew\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.exe
+E:\BackupNew\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.pdb
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.Controls.DomainControl.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmAbout.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmMain.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmNewProject.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Interface.FrmRegister.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.Properties.Resources.resources
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BackupNew\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.exe.manifest
+E:\BackupNew\Projects\SeHydra\SeHydra\bin\Debug\SeHydra.application
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.exe.manifest
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.application
+E:\BackupNew\Projects\SeHydra\SeHydra\obj\x86\Debug\SeHydra.TrustInfo.xml
