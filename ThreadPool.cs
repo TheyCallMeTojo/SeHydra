@@ -51,7 +51,7 @@ namespace SeHydra
                     return uri;
                 }
                 // No URI is available. Wait for new URI to be queued.
-                //LblReady.Text = "Done";
+                //LblReady.Text = "Done"; ?
                 Monitor.Exit(NewItemEvent);
                 NewItemEvent.WaitOne();
             }
