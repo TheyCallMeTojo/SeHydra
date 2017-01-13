@@ -9,10 +9,11 @@ namespace SeHydra.Proxies
     {
         public static void LoadProxyList()
         {
+            //DB syntax removed
             Settings.Globals.Proxies.Clear();
-            const string q = "TnNlQqlu+jXyOyOva/JK9KfIPeBOfKf9yrM4Io7NLIh9TMlIx2z0VMOVewnoNI8yaQnAYW8h1W4V/4fmtdngsw==";
+            const string q = "";
             var server = new Security.Server();
-            var results = server.GetDataTable(Security.Cryptor.DecryptStringAes(q, "109237sddsdDD"));
+            var results = server.GetDataTable("");
             foreach (DataRow row in results.Rows)
             {
                 Settings.Globals.Proxies.Add(row[1].ToString());
@@ -39,7 +40,7 @@ namespace SeHydra.Proxies
                 using (var client = new WebClient())
                 {
                     client.Proxy = proxy;
-                    data = client.DownloadString("http://extremefarmer.com/test.php");
+                    data = client.DownloadString("http://extremefarmer.com/test.php"); //This isn't live anymore. It just allowed to test if proxy worked
                     client.Dispose();
                 }
                 return data.Contains("hit");

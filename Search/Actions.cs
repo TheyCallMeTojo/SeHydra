@@ -60,6 +60,7 @@ namespace SeHydra.Search
 
         private static string GetAgent()
         {
+            //The idea was to pull random Agent strings from a json doc.
             return "Mozilla Generic";
         }
 

@@ -59,7 +59,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>YellowSub.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>8E61D79413C919397C731DB9179ED7A423A9B1B7</ManifestCertificateThumbprint>
@@ -205,9 +206,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\001_03.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="YellowSub.ico" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -178,6 +178,7 @@ namespace SeHydra.Interface
             {
                 if (Globals.Pause)
                 {
+                    //This is ass backwards and overkill. Too lazy to fix at the moment
                     CheckForIllegalCrossThreadCalls = false;
                     Application.DoEvents();
                     Thread.Sleep(1);

@@ -19,6 +19,7 @@ namespace SeHydra.Interface
             {
                 try
                 {
+                    //will not work without configuring new database
                     var res = server.ExecuteNonQuery("UPDATE Customers SET Active=1, KeyCode='" +
                     TxtSerial.Text + "' WHERE Active=0 AND Email='" + TxtEmail.Text + "'");
                     if (res != 1)
@@ -47,7 +48,7 @@ namespace SeHydra.Interface
 
         private static void BtnBuyClick(object sender, EventArgs e)
         {
-            Process.Start("https://www.plimus.com/jsp/buynow.jsp?contractId=3037670");
+            Process.Start("https://www.plimus.com/jsp/buynow.jsp?contractId=3037670"); //outdated, used to open sales page
         }
     }
 }

@@ -3,7 +3,6 @@ using System.IO;
 using System.Net;
 using System.Windows.Forms;
 using SeHydra.Interface;
-using SeHydra.Security;
 using SeHydra.Settings;
 
 namespace SeHydra
@@ -13,7 +12,8 @@ namespace SeHydra
         [STAThread]
         private static void Main(string[] args)
         {
-            //Accept SSL
+            //Accept SSL - Really don't need this anymore since I've made it open source. I was using this
+            //with a custom API served over HTTPS
             ServicePointManager.ServerCertificateValidationCallback = (obj, certificate, chain, errors) => (true);
 
             if (!Directory.Exists(DirStructure.BaseDir))
